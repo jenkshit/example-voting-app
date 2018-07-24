@@ -14,7 +14,7 @@
 # Create BROWSERS variable with space delimited supported browsers 'chrome firefox'
 version: '1.0'
 steps:
-  BuildingMicroServices:
+  #BuildingMicroServices:
     title: Executing Parallel Docker Builds
     image: 'codefresh/cli:latest'
     commands: 
